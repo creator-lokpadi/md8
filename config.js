@@ -5,15 +5,15 @@ import fs from 'fs'
 
 /**Owner number**/
 global.owner = [
-  ['6282328303332', '️<Owner>'],
+  /*['6282328303332', '️<Owner>'],
   ['62895605887712', '<Admin>'],
-  ['6283190403329', '<Moderator>'],
-  ['6281313312123', '<>', true ]
+  ['6283190403329', '<Moderator>'],*/
+  ['6282321720820', '<TEAMCREATORLOKPADI>', true ]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
-global.girlfren = [] // Your gf/pacar
+global.prems = ['6282321720820'] // Premium user has unlimited limit
+global.girlfren = ['6281376576713'] // Your gf/pacar
 
 //Api website
 global.APIs = { // API Prefix
@@ -38,18 +38,18 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '6287724225921'
-global.author = 'Rain-Bot Is the best'
-global.wm = "Adventure pitur"
+global.packname = 'TEAMCREATORLOKPADI'
+global.author = 'Muhammad Andriani'
+global.wm = "TEAMCREATORLOKPADI"
 global.multiplier = 69 // The higher, The harder levelup
 
 //
 global.eror = 'eror bodo'
 global.wait = 'Process...'
 global.render = 'wait render'
-global.webs = 'https://rizxyu.github.io/sxzyweb/'//Your Website
-global.logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsHEAITWM7dPQ_irYtNvZ1hiM_zj4tZ4f6A&usqp=CAU"//Your logo
-global.gcwangsaf = "https://chat.whatsapp.com/ITjd9jsIfBAK5byfdb2cxj"//Link Group whatsapp
+global.webs = 'ngapain bang??'//Your Website
+global.logo = "https://telegra.ph/file/af8b3e6b324a00f73ea83.png"//Your logo
+global.gcwangsaf = "https://chat.whatsapp.com/IO1wWOPlB5j6hcYM5IdC9f"//Link Group whatsapp
 
 //Donasi
 global.saweria = ""// website saweria.co
